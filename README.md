@@ -6,7 +6,7 @@ simple api call using sinatra and ruby
 https://pokeapi.co/api/v2/pokemon
 
 output:
-
+```ssh
 {
     "count": 949,
     "previous": null,
@@ -94,4 +94,4 @@ output:
     ],
     "next": "https://pokeapi.co/api/v2/pokemon/?limit=20&offset=20"
 }
-
+```
